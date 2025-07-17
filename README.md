@@ -6,7 +6,7 @@ An interactive data dashboard that provides insights into the used cars market â
 
 ## ðŸ“Š Overview
 
-This project analyzes a dataset of used car listings to help buyers, sellers, and dealers make informed decisions.
+This project analyzes a dataset of used car listing to help buyers, sellers, and dealers make informed decisions.
 
 ---
 
